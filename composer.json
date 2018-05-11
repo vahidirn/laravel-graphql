@@ -1,0 +1,20 @@
+{
+    "name": "vahidirn/laravel-graphql",
+    "description": "Define GraphQL schema for connection filtering using Laravel filterQuery models",
+    "require": {
+        "folklore/graphql": "*",
+        "vahidirn/laravel-filter-query": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VahidIrn",
+            "email": "irnp@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "VahidIrn\\GraphQLFilter\\": "src"
+        }
+    }
+}
