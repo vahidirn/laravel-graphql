@@ -7,7 +7,7 @@ use VahidIrn\GraphQLFilter\GraphQLFilterException;
 
 use ErrorException;
 use ReflectionClass;
-use Folklore\GraphQL\Support\InputType;
+use VahidIrn\GraphQLFilter\Type\InputType;
 
 class FilterType extends InputType
 {
