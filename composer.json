@@ -2,8 +2,7 @@
     "name": "vahidirn/laravel-graphql",
     "description": "Define GraphQL schema for connection filtering using Laravel filterQuery models",
     "require": {
-        "folklore/graphql": "*",
-        "vahidirn/laravel-filter-query": "*"
+        "folklore/graphql": "*"
     },
     "license": "MIT",
     "authors": [
